@@ -14,7 +14,7 @@ function validate(test){
 }
 
 function callback(){
-    window.location = "index.html";
+    window.location = "todo.html";
 }
 
 
